@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BIN ALARM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bin_alarm" />
+</resources>
